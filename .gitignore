@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Checkpoints
+training_checkpoints/
+
+# Dataset
+lfw.tgz
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
